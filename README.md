@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Luiz Amancio</h1>
-<h3 align="center">A passionate java developer from Brazil</h3>
+<h3 align="center">Java developer from Brazil</h3>
+
+- 🔭 Engenheiro de Software Java com 3 anos de experiência em Java e atuação em sistemas corporativos de alta complexidade e missão crítica, especialmente no contexto bancário.
+- Atuando no desenvolvimento, manutenção e evolução de soluções cooperativas, participando diretamente de projetos da Caixa Econômica Federal como o MCMV – Reconstrução e o SIOPI (Sistema de Operações Imobiliárias). Minha rotina envolve desde a sustentação de aplicações legadas em Struts e EJB até a construção e manutenção e criação de APIs REST utilizando JAX-RS (RestEasy) com Java 17, integrações legadas REST/SOAP e mensageria com JMS. Sempre buscando melhorar arquitetura, desempenho e confiabilidade dos sistemas.
+- Domínio do ecossistema Java com Spring Boot, Quarkus, JAX-RS(RestEasy), Struts, além de conhecimento no front-end com Angular 15 e Next.js. Sólida base em bancos de dados SQL e NoSQL aplicados a sistemas de grande porte.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
