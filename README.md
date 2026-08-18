@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Luiz Amancio</h1>
+<h1 align="center">Luiz Amancio</h1>
 <h3 align="center">Java developer from Brazil</h3>
 
 - 🔭 Engenheiro de Software Java com 3 anos de experiência em Java e atuação em sistemas corporativos de alta complexidade e missão crítica, especialmente no contexto bancário.
